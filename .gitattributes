@@ -1,3 +1,9 @@
+*.html binary
+*.tex binary
+*.pdf binary
+*.js binary
+*.css binary
+
 *.html linguist-detectable=false
 *.tex linguist-detectable=false
 *.pdf linguist-detectable=false
